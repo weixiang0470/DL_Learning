@@ -1,0 +1,1 @@
+From [Python 爬蟲 (1)— LeetCode篇 : 抓取題目資訊](https://medium.com/@highsunday0630/leecode-%E7%88%AC%E8%9F%B2-1-fede2b24cc50) & [Chatgpt](https://chatgpt.com/)
